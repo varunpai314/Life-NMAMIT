@@ -16,7 +16,7 @@
 - (1300)Onam celebration
 <details>
 <summary>Check out the Images</summary>
-    - <img img="images\onam-2023\kathira23.jpg">
+    - <img src="images\onam-2023\kathira23.jpg">
     - <img src="images\onam-2023\janasagara.jpg">
 </details>
 - (2200)Came across <a href="https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/" target="_blank">The Linux Foundation beginner's course</a>.

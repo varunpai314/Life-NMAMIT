@@ -1,3 +1,4 @@
+<body style="color: white;">
 
 # Life@NMAMIT 
 
@@ -25,3 +26,4 @@
   <summary>Here are the MSE-I and MSE-II dates:</summary>
   <img src="images\mse-dates.jpg">
   </details>
+</body>

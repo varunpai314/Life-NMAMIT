@@ -5,14 +5,12 @@
 
 #### Day01 - 04/08/2023 :
 
-.
-.
-.
+...
 
 #### Day36 - 08/09/2023 :
 - (0900)Math class - slept, couldn't understand anything... Probability and Statistics.
 - (0950)Data Structures class - well, enjoyed it. Learned to convert an infix expression to its postfix form.
-- (1115)Technical talk by [Mr.Piyush Goel, Capillary Technologies](https://www.linkedin.com/in/piyushgoel1/?originalSubdomain=in){:target="_blank"}.
+- (1115)Technical talk by <a href="https://www.linkedin.com/in/piyushgoel1/?originalSubdomain=in" target="_blank">Mr.Piyush Goel, Capillary Technologies</a>.
 - (1300)Onam celebration
   <details>
   <summary>Check out the Images</summary>

@@ -16,8 +16,8 @@
 - (1300)Onam celebration
 <details>
 <summary>Check out the Images</summary>
-<img img="images\onam-2023\kathira23.jpg">
-<img src="images\onam-2023\janasagara.jpg">
+    - <img img="images\onam-2023\kathira23.jpg">
+    - <img src="images\onam-2023\janasagara.jpg">
 </details>
 - (2200)Came across <a href="https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/" target="_blank">The Linux Foundation beginner's course</a>.
 - Applied for the <a href="https://jobs.careers.microsoft.com/actioncenter/submitted" target="_blank">Software Engineer Intern</a> opportunity at Microsoft.

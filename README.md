@@ -1,16 +1,13 @@
 
 # Life@NMAMIT 
-===
 
 ### Day To Day things happening at NMAMIT with me, and around me.
 
----
-
 #### Day01 - 04/08/2023 :
 
- \.
- \.
- \.
+.
+.
+.
 
 #### Day36 - 08/09/2023 :
 - (0900)Math class - slept, couldn't understand anything... Probability and Statistics.

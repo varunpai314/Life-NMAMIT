@@ -1,7 +1,6 @@
-
 # Life@NMAMIT 
 
-### Day To Day things happening at NMAMIT with me, and around me.
+## Day To Day things happening at NMAMIT with me, and around me.
 
 #### Day01 - 04/08/2023 :
 
@@ -21,7 +20,7 @@
 - Applied for the [Software Engineer Intern](https://jobs.careers.microsoft.com/actioncenter/submitted) opportunity at Microsoft.
 - (2305)Came across [markdown](https://daringfireball.net/projects/markdown/basics), a text markup language used for documentation. Beautiful. There is an open-source guide to it, [Markdown Guide](https://www.markdownguide.org/).
 - There's FEWD Lab Exam on Upcoming Tuesday, 12/09/23.
-- <details>
+  <details>
   <summary>Here are the MSE-I and MSE-II dates:</summary>
   <img src="images\mse-dates.jpg">
   </details>

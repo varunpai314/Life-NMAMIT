@@ -1,4 +1,3 @@
-<body style="color: white;">
 
 # Life@NMAMIT 
 
@@ -26,4 +25,7 @@
   <summary>Here are the MSE-I and MSE-II dates:</summary>
   <img src="images\mse-dates.jpg">
   </details>
-</body>
+
+#### Day37 - 09/09/2023 :
+- (1215)Had math class, got cancelled. Been learning to evaluate a postfix expression. Changed the theme of bro's Ubuntu to a MacOS Ventura, lookin' good.
+- (1300)A Sona Shanivara, going to [The Temple](https://padutirupathi.in/), to volunteer.

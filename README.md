@@ -31,4 +31,5 @@
 
 ...
 #### Day43 - 15/09/2023 :
-- (0706)Health is very important. Maintain it. Have a real bad cramp right row, in the hips. Have to take a holiday, I guess. Had had it once during college admissions, 3rd August, 2023.
+- (0706)Health is very important. Maintain it. Have a real bad cramp right now, in the hips. Have to take a holiday, I guess. Had had it once during college admissions, 3rd August, 2023.
+- (1708)Went to college with that "mild" pain. Would have missed a lot if I hadn't. Ideas, from Shweta Ma'am; Amazing Math class with [Ananth](), and Sampath Sir's MultiThreading in Java.

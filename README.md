@@ -28,3 +28,7 @@
 #### Day37 - 09/09/2023 :
 - (1215)Had math class, got cancelled. Been learning to evaluate a postfix expression. Changed the theme of bro's Ubuntu to a MacOS Ventura, lookin' good.
 - (1300)A Sona Shanivara, going to [The Temple](https://padutirupathi.in/), to volunteer.
+
+...
+#### Day43 - 15/09/2023 :
+- (0706)Health is very important. Maintain it. Have a real bad cramp right row, in the hips. Have to take a holiday, I guess. Had had it once during college admissions, 3rd August, 2023.
